@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CoderCodeh
+- 👀 I’m interested in learning how to be a software engineer
+- 💞️ I’m looking to collaborate on projects in order to learn!
